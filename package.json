@@ -1,0 +1,21 @@
+{
+  "name": "Muted-Theme",
+  "displayName": "Muted Theme",
+  "description": "Muted colour theme by Lamain Islam.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Muted",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Muted-color-theme.json"
+      }
+    ]
+  }
+}
