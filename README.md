@@ -1,16 +1,32 @@
-# Muted-Theme README
+# Muted Theme README
 
-## Working with Markdown
+Welcome to the **Muted Theme** for Visual Studio Code!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## About
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+The **Muted Theme** offers a calming and subtle color palette designed to reduce visual distractions while coding. With muted tones and gentle contrasts, this theme provides a comfortable environment for extended coding sessions.
 
-## For more information
+## Features
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- **Reduced Distractions:** Muted colors minimize visual noise, allowing you to focus on your code.
+- **Enhanced Readability:** Carefully selected hues ensure clear visibility and comfortable reading.
+- **Subtle Aesthetics:** Soft gradients and gentle contrasts create a pleasant coding experience without overwhelming the senses.
 
-**Enjoy!**
+## Usage
+
+To use the **Muted Theme**:
+
+1. Install Visual Studio Code (if you haven't already).
+2. Open the Extensions view by clicking on the square icon in the Sidebar.
+3. Search for "**Muted Theme**" and click Install.
+4. Open the Command Palette (`Ctrl+Shift+P`), select "**Color Theme**," and choose "**Muted Theme**."
+
+## For More Information
+
+For additional details and support:
+
+- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+*Enjoy coding with the Muted Theme by Lamain Islam!*
+

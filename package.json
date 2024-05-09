@@ -1,8 +1,37 @@
 {
   "name": "Muted-Theme",
   "displayName": "Muted Theme",
-  "description": "Muted colour theme by Lamain Islam.",
-  "version": "0.0.1",
+  "description": "Experience coding in a soothing ambiance with the Dark Muted color theme by Lamain Islam. This theme offers a palette of muted colors, providing a tranquil environment for your coding sessions. Say goodbye to visual distractions and immerse yourself in focused, productive coding with the Dark Muted theme.",
+  "version": "1.0.0",
+  "publisher": "LamainIslam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LamainIslam/Muted-Theme"
+  },
+  "keywords": [
+    "dark",
+    "muted",
+    "dark muted",
+    "dark theme",
+    "dark themes",
+    "muted theme",
+    "muted themes",
+    "dark muted theme",
+    "dark muted themes",
+    "dark theme muted",
+    "theme",
+    "themes",
+    "color theme",
+    "color themes",
+    "colour theme",
+    "colour themes",
+    "color",
+    "colour",
+    "LamainIslam",
+    "Lamain",
+    "Islam",
+    "Lamain Islam"
+  ],
   "engines": {
     "vscode": "^1.89.0"
   },
